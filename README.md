@@ -146,9 +146,10 @@ After successfully cracking the passwords and opening the protected PDFs, the fo
 
 | Flag | Description |
 |------|-------------|
-| `nw{password_cracking_flag_success_1}` | First successfully opened PDF |
-| `nw{cybersecurity_flag_captured_2026}` | Additional flag from opened PDF |
-| `nw{password_cracking_success_WK3-PM2}` | Flag obtained via Networkwalks Tools module |
+| `nw{cybersecurity_flag_captured_2608}` | First successfully opened PDF |
+| `nw{networkwalks_persistance_jtr_270521}` | Additional flag from opened PDF |
+| `nw{networkwalks_flag1_jtr_270521_1}` | Flag obtained via Networkwalks Tools module |
+|`nw{networkwalks_flag_260821_1}` | Flag obtained from the locked file 3 |
 
 ![PDF Opened – Flag 1](images/05-pdf1-opened-flag.png)
 
